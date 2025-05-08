@@ -7,10 +7,22 @@
         "type": "restaurant"
       },
       {
-        "name": "Hal 5 (lecturer's dinner)",
+        "name": "Hal 5 (pre-event dinner)",
         "lat": 50.88300,
         "lng": 4.72239,
         "type": "restaurant"
+      },
+      {
+        "name": "Arts faculty",
+        "lat": 50.8773135,
+        "lng": 4.70956,
+        "type": "campus"
+      },
+      {
+        "name": "MSI",
+        "lat": 50.8776232,
+        "lng": 4.7080952,
+        "type": "campus"
       }
     ]
   }
