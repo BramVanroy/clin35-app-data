@@ -1,0 +1,16 @@
+{
+    "map": [
+      {
+        "name": "Alma 1 (lunch)",
+        "lat": 50.87616,
+        "lng": 4.70810,
+        "type": "restaurant"
+      },
+      {
+        "name": "Hal 5 (lecturer's dinner)",
+        "lat": 50.88300,
+        "lng": 4.72239,
+        "type": "restaurant"
+      }
+    ]
+  }

@@ -1,0 +1,12 @@
+{
+    "newsItems": [
+	{
+            "id": "1",
+            "title": "Welcome to CLIN 35!",
+            "date": "Friday 8 May 2024",
+	        "time": "11:00",
+            "description": "We're excited to have you in Leuven.",
+            "fullMessage": "We're excited to have you in Leuven. This is a first test message."
+	}
+    ]
+}
